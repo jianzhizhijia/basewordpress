@@ -1,0 +1,3696 @@
+# Translation of Themes - Astra in Chinese (China)
+# This file is distributed under the same license as the Themes - Astra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-15 02:56:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Astra\n"
+
+#. Description of the theme
+msgid "Astra is fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL & Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!"
+msgstr "Astra是一个速度快、可定制的漂亮主题，适合博客、个人作品集、商业网站和WooCommerce店面。 它非常轻巧（前端小于50KB），给您的网站带来无与伦比的速度。 Astra专为SEO而生，集成了Schema.org代码，会让搜索引擎喜欢您的网站。 它提供了特殊的功能和模板，可以与所有的页面构建器（如Elementor、Beaver Builder、Visual Composer、SiteOrigin、Divi等）完美协作。其他特点还包括：＃支持WooCommerce ＃响应式设计 ＃支持RTL和翻译 ＃可通过高级插件扩展 ＃定期更新 ＃由Brainstorm Force设计，开发，维护和支持。您在寻找一个完美的基础主题？不用再考虑了。您可以使用Astra这个速度快、可定制、支持WooCommerce的主题来构建任何类型的网站！"
+
+#. Theme Name of the theme
+#: inc/core/class-astra-admin-settings.php:100 inc/core/view-general.php:23
+#: inc/markup-extras.php:1564
+msgid "Astra"
+msgstr "Astra"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:242
+msgid "Popup Padding"
+msgstr "弹窗内距"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:175
+msgid "EDD Cart Icon Color"
+msgstr "EDD 购物车图标颜色"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:164
+msgid "Woo Cart Icon Color"
+msgstr "Woo 购物车图标颜色"
+
+#: inc/admin-functions.php:42
+#: inc/core/builder/class-astra-builder-helper.php:728
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:56
+msgid "Off-Canvas Menu"
+msgstr "Off-Canvas (滑动) 菜单"
+
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:290
+msgid "Button Font"
+msgstr "按钮字体"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1071
+msgid "Account Menu Color"
+msgstr "帐户菜单颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1038
+msgid "Text / Placeholder"
+msgstr "文本 / 占位符"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:858
+msgid "Toggle Color"
+msgstr "切换按钮颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:664
+msgid "Box Background"
+msgstr "盒子背景"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:648
+msgid "Search Color"
+msgstr "搜索颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:595
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:690
+msgid "HTML Color"
+msgstr "HTML颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:473
+msgid "Social Color"
+msgstr "社交颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:438
+msgid "Submenu Color"
+msgstr "子菜单颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:148
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:202
+msgid "Hover / Active"
+msgstr "悬停 / 激活"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:92
+msgid "Header Position"
+msgstr "页眉位置"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:54
+msgid "After"
+msgstr "之后"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:45
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:53
+msgid "Inside"
+msgstr "内部"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:124
+msgid "Content Link Color"
+msgstr "内容链接颜色"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:443
+msgid "Tagline Font"
+msgstr "标语字体"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:47
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:66
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:292
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:412
+msgid "Content Colors"
+msgstr "内容颜色"
+
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:361
+msgid "Font"
+msgstr "字体"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:259
+msgid "Label Color"
+msgstr "标签颜色"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:201
+msgid "Icon Radius"
+msgstr "图标圆角"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:523
+msgid "Content Font Size"
+msgstr "内容字体大小"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:54
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:464
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:524
+msgid "Content Font"
+msgstr "内容字体"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:426
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:428
+msgid "Title Font"
+msgstr "标题字体"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:126
+msgid "Text Font"
+msgstr "文本字体"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:435
+msgid "Checkout Button"
+msgstr "结帐按钮"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:342
+msgid "Cart Button"
+msgstr "购物车按钮"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:443
+msgid "Profile Text Color"
+msgstr "个人资料文字颜色"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:299
+msgid "Button Background"
+msgstr "按钮背景"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:291
+msgid "Checkout"
+msgstr "结帐"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:209
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:230
+msgid "Cart Tray"
+msgstr "购物车托盘"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:209
+msgid "Inner Element Spacing"
+msgstr "内部元素间距"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:413
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:430
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:373
+msgid "Text / Link"
+msgstr "文字 / 链接"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:201
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:120
+msgid "Divider Size"
+msgstr "分隔器大小"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-builder-configs.php:231
+msgid "If this color setting is not reflecting, check if colors are set from dedicated above, below or primary footer settings."
+msgstr "如果此颜色设置没有反映出来，请检查是否从专用的上方，下方或主要页脚设置中设置了颜色。"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:344
+msgid "Menu Font Size"
+msgstr "菜单字体大小"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:304
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:503
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:294
+msgid "Menu Font"
+msgstr "菜单字体"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:256
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:616
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:408
+msgid "Menu Spacing"
+msgstr "菜单间距"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:131
+msgid "Link / Text"
+msgstr "链接 / 文本"
+
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:114
+msgid "Post / Page Title Font Size"
+msgstr "文章 / 页面标题字体大小"
+
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:70
+msgid "Post / Page Title Font"
+msgstr "文章 / 页面标题字体"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:173
+msgid "Post Title Font Size"
+msgstr "文章标题字体大小"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:150
+msgid "Archive Title Font Size"
+msgstr "存档标题字体大小"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:105
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:468
+msgid "Post Title Font"
+msgstr "文章标题字体"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:69
+msgid "Archive Title Font"
+msgstr "存档标题字体"
+
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:163
+msgid "Tagline Font Size"
+msgstr "标语字体大小"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:502
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:96
+msgid "Title Font Size"
+msgstr "标题字体大小"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:191
+msgid "Heading Font Family"
+msgstr "标题字体系列"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:47
+msgid "Body Font Family"
+msgstr "Body 字体系列"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:722
+#: inc/metabox/class-astra-meta-boxes.php:358
+msgid "Disable Footer"
+msgstr "禁用页脚"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:696
+#: inc/metabox/class-astra-meta-boxes.php:306
+msgid "Disable Mobile Header"
+msgstr "禁用移动端页眉"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:686
+#: inc/metabox/class-astra-meta-boxes.php:298
+msgid "Disable Below Header"
+msgstr "在页眉下方禁用"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:676
+#: inc/metabox/class-astra-meta-boxes.php:282
+msgid "Disable Above Header"
+msgstr "在页眉上方禁用"
+
+#: inc/admin-functions.php:67
+msgid "Logged In Account Menu"
+msgstr "已登录帐户菜单"
+
+#: inc/core/builder/class-astra-builder-admin.php:136
+msgid "You don't have the access"
+msgstr "您没有访问权限"
+
+#: inc/core/builder/class-astra-builder-admin.php:97
+msgid "Go to Customizer"
+msgstr "转到定制器"
+
+#: inc/core/builder/class-astra-builder-admin.php:95
+msgid "Note: The header/footer builder will replace the existing header/footer settings in the customizer. This might make your header/footer look a bit different. You can configure header/footer builder settings from customizer to give it a nice look. You can always come back here and switch to your old header/footer."
+msgstr "注：页眉/页脚构建器将替换定制器中现有的页眉/页脚设置。这可能会使页眉/页脚看起来有些不同。您可以从定制程序配置页眉/页脚构建器设置，以使其外观漂亮。您随时可以回到这里，切换到旧的页眉/页脚。"
+
+#. translators: %1$s: Theme name.
+#: inc/core/builder/class-astra-builder-admin.php:90
+msgid "Activating this feature will add advanced options to %1$s customizer where you can create awesome new designs."
+msgstr "激活此功能将为 %1$s 定制器添加高级选项，您可以在其中创建很棒的新设计。"
+
+#. translators: %1$s: Theme name.
+#: inc/core/builder/class-astra-builder-admin.php:81
+msgid "%1$s Header/Footer Builder is a new and powerful way to design header and footer for your website. With this, you can give a creative look to your header/footer with less effort."
+msgstr "%1$s 页眉/页脚生成器是一种新颖而强大的方法，可为您的网站设计页眉和页脚。这样，您可以轻松地为页眉/页脚赋予创意外观。"
+
+#. translators: %1$s: Theme name.
+#: inc/core/builder/class-astra-builder-admin.php:69
+msgid "%1$s Header/Footer Builder"
+msgstr "%1$s 页眉/页脚生成器"
+
+#: inc/core/builder/class-astra-builder-helper.php:690
+msgid "Woo Cart"
+msgstr "Woo 购物车"
+
+#: inc/core/builder/class-astra-builder-helper.php:559
+msgid "Single Row"
+msgstr "单行"
+
+#: inc/core/builder/class-astra-builder-helper.php:549
+msgid "Right Heavy 33/66"
+msgstr "右重 33/66"
+
+#: inc/core/builder/class-astra-builder-helper.php:545
+msgid "Left Heavy 66/33"
+msgstr "左重 66/33"
+
+#: inc/core/builder/class-astra-builder-helper.php:531
+msgid "Last Row, Previous Columns 50/50 - 100"
+msgstr "最后行，上一列 50/50 - 100"
+
+#: inc/core/builder/class-astra-builder-helper.php:527
+msgid "First Row, Next Columns 100 - 50/50"
+msgstr "最首行，下一列 100 - 50/50"
+
+#: inc/core/builder/class-astra-builder-helper.php:523
+msgid "Wide Center 20/60/20"
+msgstr "中心宽20/60/20"
+
+#: inc/core/builder/class-astra-builder-helper.php:519
+msgid "Center Heavy 25/50/25"
+msgstr "中心重 25/50/25"
+
+#: inc/core/builder/class-astra-builder-helper.php:515
+msgid "Right Heavy 25/25/50"
+msgstr "右重 25/25/50"
+
+#: inc/core/builder/class-astra-builder-helper.php:511
+msgid "Left Heavy 50/25/25"
+msgstr "左重 50/25/25"
+
+#: inc/core/builder/class-astra-builder-helper.php:497
+msgid "Two Column Grid"
+msgstr "两列网格"
+
+#: inc/core/builder/class-astra-builder-helper.php:477
+#: inc/core/builder/class-astra-builder-helper.php:487
+#: inc/core/builder/class-astra-builder-helper.php:501
+#: inc/core/builder/class-astra-builder-helper.php:535
+#: inc/core/builder/class-astra-builder-helper.php:553
+#: inc/core/builder/class-astra-builder-helper.php:571
+#: inc/core/builder/class-astra-builder-helper.php:581
+msgid "Collapse to Rows"
+msgstr "折叠成行"
+
+#: inc/core/builder/class-astra-builder-helper.php:473
+#: inc/core/builder/class-astra-builder-helper.php:483
+#: inc/core/builder/class-astra-builder-helper.php:493
+#: inc/core/builder/class-astra-builder-helper.php:507
+#: inc/core/builder/class-astra-builder-helper.php:541
+#: inc/core/builder/class-astra-builder-helper.php:567
+#: inc/core/builder/class-astra-builder-helper.php:577
+msgid "Equal Width Columns"
+msgstr "等宽列"
+
+#: inc/core/builder/class-astra-builder-options.php:977
+msgid "My Account"
+msgstr "我的帐户"
+
+#: inc/core/builder/class-astra-builder-options.php:976
+msgid "Log In"
+msgstr "登录"
+
+#: inc/core/builder/class-astra-builder-options.php:1222
+#: inc/core/builder/class-astra-builder-options.php:1257
+msgid "Insert HTML text here."
+msgstr "在此处插入HTML文本。"
+
+#: inc/core/builder/class-astra-builder-admin.php:60
+#: inc/core/class-astra-admin-settings.php:443
+#: inc/core/class-astra-admin-settings.php:505
+msgid "Use New Header/Footer Builder"
+msgstr "使用新的页眉/页脚生成器"
+
+#: inc/core/builder/class-astra-builder-admin.php:60
+#: inc/core/class-astra-admin-settings.php:442
+#: inc/core/class-astra-admin-settings.php:504
+msgid "Use Old Header/Footer"
+msgstr "使用旧页眉/页脚"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:371
+msgid "Tagline"
+msgstr "标语"
+
+#: inc/core/builder/class-astra-builder-helper.php:700
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:50
+msgid "EDD Cart"
+msgstr "EDD 购物车"
+
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:246
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:221
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:271
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:135
+msgid "Border Width"
+msgstr "边框宽度"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:88
+msgid "menu3"
+msgstr "菜单3"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:84
+msgid "menu2"
+msgstr "菜单2"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:80
+msgid "menu"
+msgstr "菜单"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:76
+msgid "Icons"
+msgstr "图标"
+
+#: inc/core/builder/class-astra-builder-helper.php:723
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:50
+msgid "Toggle Button"
+msgstr "切换按钮"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:187
+msgid "Header Cart Icon"
+msgstr "页眉购物车图标"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:205
+msgid "WooCommerce Cart"
+msgstr "WooCommerce 购物车"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:102
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:91
+msgid "Style"
+msgstr "样式"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:82
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:70
+msgid "Display Cart Title"
+msgstr "显示购物车标题"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:62
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:56
+msgid "Display Cart Total"
+msgstr "显示购物车总数"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:424
+msgid "Header Types"
+msgstr "页眉类型"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:44
+msgid "Below Header"
+msgstr "页眉下方"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:341
+msgid "Image Width"
+msgstr "图像宽度"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:317
+msgid "Login URL"
+msgstr "登录网址"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:264
+msgid "Preview"
+msgstr "预览"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:226
+msgid "Logged Out View"
+msgstr "已登出查看"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:207
+msgid "Account URL"
+msgstr "帐户网址"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:158
+msgid "Avatar"
+msgstr "头像"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:155
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:240
+msgid "Profile Type"
+msgstr "个人资料类型"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:138
+msgid "Logged In View"
+msgstr "登录视图"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:182
+msgid "Close Icon Color"
+msgstr "关闭图标颜色"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:146
+msgid "Content Alignment"
+msgstr "内容对齐"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:75
+msgid "Dropdown"
+msgstr "下拉列表"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:74
+msgid "Full-Screen"
+msgstr "全屏"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:73
+msgid "Flyout"
+msgstr "弹出"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:71
+msgid "Header Type"
+msgstr "页眉类型"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:44
+msgid "Off-Canvas"
+msgstr "关闭Canvas动画"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:44
+msgid "Above Header"
+msgstr "页眉上方"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:339
+msgid "Stack on Mobile"
+msgstr "在手机上堆叠"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:325
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:87
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:98
+msgid "Item Divider"
+msgstr "项目分隔符"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:250
+msgid "Top Offset"
+msgstr "顶部偏移"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:186
+msgid "Submenu Container"
+msgstr "子菜单容器"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:111
+msgid "Zoom In"
+msgstr "放大"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:108
+msgid "Menu Hover Style"
+msgstr "菜单悬停样式"
+
+#: inc/admin-functions.php:57
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:129
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:53
+msgid "Menu "
+msgstr "菜单 "
+
+#: inc/admin-functions.php:41
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:126
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:50
+msgid "Secondary Menu"
+msgstr "二级菜单"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:924
+msgid "Widget Color"
+msgstr "小工具颜色"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:279
+msgid "Widget "
+msgstr "小工具 "
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:241
+msgid "Hide on Desktop"
+msgstr "在桌面上隐藏"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:224
+msgid "Hide on Mobile"
+msgstr "在手机上隐藏"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:209
+msgid "Hide on Tablet"
+msgstr "在平板上隐藏"
+
+#. translators: %s Index
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:67
+msgid "Button %s"
+msgstr "按钮 %s"
+
+#. translators: %s Index
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:72
+msgid "HTML %s"
+msgstr "HTML %s"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:224
+msgid "Official"
+msgstr "官方"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:220
+msgid "Color Type"
+msgstr "颜色类型"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:178
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:157
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:370
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:92
+msgid "Icon Size"
+msgstr "图标大小"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:155
+msgid "Icon Background Spacing"
+msgstr "图标背景间距"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:131
+msgid "Icon Spacing"
+msgstr "图标间距"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:110
+msgid "Show Label"
+msgstr "显示标签"
+
+#. translators: 1: index
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:62
+msgid "Social Icons %s"
+msgstr "社交图标 %s"
+
+#. translators: 1: index
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:62
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:88
+msgid "Social Icons"
+msgstr "社交图标"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:47
+msgid "Primary Footer"
+msgstr "主页脚"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:47
+msgid "Above Footer"
+msgstr "在页脚上方"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:49
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:258
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:258
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:241
+msgid "Inner Column Spacing"
+msgstr "内列间距"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:178
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:178
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:158
+msgid "Inner Elements Layout"
+msgstr "内部元素布局"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:162
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:162
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:142
+msgid "Middle"
+msgstr "居中"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:159
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:159
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:139
+msgid "Vertical Alignment"
+msgstr "垂直对齐"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:136
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:136
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:68
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:68
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:80
+msgid "Height"
+msgstr "高度"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:74
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:74
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:74
+msgid "Column"
+msgstr "分栏"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:47
+msgid "Below Footer"
+msgstr "页脚下方"
+
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:179
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:419
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:92
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:298
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:139
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:281
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:485
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:301
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:125
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:474
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:356
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:118
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:433
+msgid "Margin"
+msgstr "外距"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:421
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:381
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:173
+msgid "Menu Color"
+msgstr "菜单颜色"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:74
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:94
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:73
+msgid "Configure Menu from Here."
+msgstr "从这里配置菜单。"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-builder-configs.php:219
+msgid "Background Color & Image"
+msgstr "背景颜色和图像"
+
+#: inc/customizer/custom-controls/font-variant/class-astra-control-font-variant.php:149
+msgid "Only selected Font Variants will be loaded from Google Fonts."
+msgstr "只会从Google字体加载选定的字体变体。"
+
+#: inc/builder/class-astra-builder-loader.php:99
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-builder-configs.php:154
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-builder-configs.php:187
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-builder-configs.php:243
+msgid "Footer Builder"
+msgstr "页脚生成器"
+
+#: inc/builder/class-astra-builder-loader.php:96
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:177
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:238
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:324
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:49
+msgid "Header Builder"
+msgstr "页眉生成器"
+
+#: inc/builder/type/header/account/class-astra-header-account-component.php:111
+msgid "Account Woo Navigation"
+msgstr "Woo帐户导航"
+
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:469
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:461
+msgid "Register"
+msgstr "注册"
+
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:377
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:425
+msgid "Account icon link"
+msgstr "帐户图标链接"
+
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:180
+msgid "Click to edit this Row."
+msgstr "单击以编辑此行。"
+
+#. translators: %s: icon term
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:171
+msgid "Below %s"
+msgstr "低于%s"
+
+#. translators: %s: icon term
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:167
+msgid "Above %s"
+msgstr "%s以上"
+
+#. translators: %s: icon term
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:163
+msgid "Primary %s"
+msgstr "主要%s"
+
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:141
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:142
+#: inc/builder/controllers/class-astra-builder-ui-controller.php:180
+msgid "Click to edit this element."
+msgstr "单击以编辑此元素。"
+
+#: inc/builder/controllers/class-astra-builder-widget-controller.php:116
+msgid "Add widgets here:"
+msgstr "在此处添加小工具："
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1169
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1187
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:222
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:223
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:238
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:239
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:472
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:473
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:489
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:490
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:263
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:264
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:280
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:281
+msgid "Active"
+msgstr "启用"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1060
+msgid "Divider"
+msgstr "Divider"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:785
+#: inc/core/builder/class-astra-builder-helper.php:662
+#: inc/core/builder/class-astra-builder-helper.php:733
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:113
+msgid "Account"
+msgstr "帐户"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:358
+msgid "Content Color"
+msgstr "内容颜色"
+
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:240
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:179
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:411
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:79
+msgid "Icon Color"
+msgstr "图标颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:57
+msgid "Background Overlay"
+msgstr "背景叠加"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:76
+msgid "The Image option cannot be sortable if the Product Style is selected to the List Style "
+msgstr "如果将产品样式选择为列表样式，则“图像”选项无法排序"
+
+#: inc/core/class-astra-admin-settings.php:1185
+msgid "Ultimate Addons for Gutenberg"
+msgstr "古腾堡终极插件"
+
+#: inc/core/class-astra-admin-settings.php:1177
+msgid "Sidebar Manager"
+msgstr "侧边栏管理器"
+
+#: inc/core/class-astra-admin-settings.php:1169
+msgid "Custom Typekit Fonts"
+msgstr "自定义 Typekit 字体"
+
+#: inc/core/class-astra-admin-settings.php:1161
+msgid "Custom Fonts"
+msgstr "自定义字体"
+
+#: inc/core/class-astra-admin-settings.php:1153
+msgid "Astra Widgets"
+msgstr "Astra 小工具"
+
+#: inc/core/class-astra-admin-settings.php:1145
+msgid "Astra Bulk Edit"
+msgstr "Astra 批量编辑"
+
+#: inc/core/class-astra-admin-settings.php:1137
+msgid "Customizer Search"
+msgstr "自定义项搜索"
+
+#: inc/core/class-astra-admin-settings.php:1129
+msgid "Astra Customizer Reset"
+msgstr "重置 Astra 自定义项"
+
+#: inc/core/class-astra-admin-settings.php:1122
+msgid "Import / Export Customizer Settings"
+msgstr "导入/导出 自定义设置"
+
+#: inc/markup-extras.php:406
+msgid "Search icon link"
+msgstr "搜索图标链接"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:87
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:409
+msgid "Customize Transparent Header."
+msgstr "自定义透明页眉。"
+
+#. translators: 1: number of products
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:340
+msgctxt "product categories"
+msgid "%1$s Product"
+msgid_plural "%1$s Products"
+msgstr[0] "%1$s 个产品"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-cart-layout-configs.php:47
+msgid "Enable Cross-sells"
+msgstr "启用交叉销售"
+
+#. translators: %1$1s: Theme Name, %2$2s: Minimum Required version of the addon
+#: inc/core/class-astra-admin-settings.php:255
+msgid "Please update the %1$1s to version %2$2s or higher. Ignore if already updated."
+msgstr "请将%1$1s更新为版本%2$2s或更高版本。如果已更新，请忽略。"
+
+#: inc/core/class-astra-admin-settings.php:804
+#: inc/core/class-astra-admin-settings.php:817
+#: inc/core/class-astra-admin-settings.php:830
+#: inc/core/class-astra-admin-settings.php:843
+#: inc/core/class-astra-admin-settings.php:856
+#: inc/core/class-astra-admin-settings.php:869
+#: inc/core/class-astra-admin-settings.php:882
+#: inc/core/class-astra-admin-settings.php:895
+#: inc/core/class-astra-admin-settings.php:910
+#: inc/core/class-astra-admin-settings.php:926
+#: inc/core/class-astra-admin-settings.php:939
+#: inc/core/class-astra-admin-settings.php:952
+#: inc/core/class-astra-admin-settings.php:965
+#: inc/core/class-astra-admin-settings.php:978
+#: inc/core/class-astra-admin-settings.php:991
+#: inc/core/class-astra-admin-settings.php:1005
+#: inc/core/class-astra-admin-settings.php:1018
+#: inc/core/class-astra-admin-settings.php:1031
+msgid "Learn More &#187;"
+msgstr "了解更多 &#187;"
+
+#: inc/core/class-astra-admin-settings.php:355
+msgid "Details &#187;"
+msgstr "详情 &#187;"
+
+#: inc/core/class-astra-admin-settings.php:313
+#: inc/core/class-astra-admin-settings.php:326
+#: inc/core/class-astra-admin-settings.php:339
+#: inc/core/class-astra-admin-settings.php:352
+#: inc/core/class-astra-admin-settings.php:361
+#: inc/core/class-astra-admin-settings.php:434
+#: inc/core/class-astra-admin-settings.php:496
+msgid "See Library &#187;"
+msgstr "查看模板库 &#187;"
+
+#: inc/core/class-astra-admin-settings.php:693
+msgid "Starter Templates?"
+msgstr "入门网站模板？"
+
+#: inc/core/class-astra-admin-settings.php:1340
+#: inc/core/class-astra-admin-settings.php:1389
+#: inc/lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "WordPress Nonce 未通过验证。"
+
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:408
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:325
+msgid "Letter Spacing"
+msgstr "字符间距"
+
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:44
+msgid "Heading Color ( H1 - H6 )"
+msgstr "标题颜色 (H1-H6)"
+
+#: inc/extras.php:342 inc/markup-extras.php:579
+msgid "Astra WordPress Theme"
+msgstr "Astra WordPress 主题"
+
+#: inc/lib/batch-processing/class-astra-wp-background-process.php:425
+msgid "Every %d Minutes"
+msgstr "每%d分钟"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:258
+msgid "Customize Button Style."
+msgstr "自定义按钮样式。"
+
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:45
+msgid "WooCommerce Layout"
+msgstr "WooCommerce 布局"
+
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:47
+msgid "LifterLMS Layout"
+msgstr "LifterLMS 布局"
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:45
+msgid "LearnDash Layout"
+msgstr "LearnDash 布局"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:45
+msgid "Easy Digital Downloads Layout"
+msgstr "Easy Digital Downloads(易数字下载) 布局"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:294
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:337
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:201
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:441
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:319
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:97
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:115
+msgid "Alignment"
+msgstr "对齐"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:397
+msgid "Separator"
+msgstr "分隔符"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:94
+msgid "Position"
+msgstr "位置"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:43
+msgid "Global"
+msgstr "全局"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:120
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:77
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:152
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:231
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:345
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:537
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:328
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:262
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:81
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:224
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:727
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:821
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:915
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1009
+msgid "Weight"
+msgstr "粗细"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:64
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:210
+msgid "Variants"
+msgstr "变体"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:81
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:62
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:136
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:214
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:307
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:520
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:311
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:225
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:690
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:784
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:878
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:972
+msgid "Family"
+msgstr "字体系列"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:212
+msgid "Heading 6"
+msgstr "标题 6"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:180
+msgid "Heading 5"
+msgstr "标题 5"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:143
+msgid "Heading 4"
+msgstr "标题 4"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:112
+msgid "Heading 3"
+msgstr "标题 3"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:78
+msgid "Heading 2"
+msgstr "标题 2"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:44
+msgid "Heading 1"
+msgstr "标题 1"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:97
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:319
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:376
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:145
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:442
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:478
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:320
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:348
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:572
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:363
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:237
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:90
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:126
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:115
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:59
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:93
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:127
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:161
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:195
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:229
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:49
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:71
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:89
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:705
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:799
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:893
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:987
+msgid "Size"
+msgstr "尺寸"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:448
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:419
+msgid "Hover Color"
+msgstr "悬停颜色"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:67
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:220
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:389
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:359
+msgid "Padding"
+msgstr "内距"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:184
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:257
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:267
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:75
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:328
+msgid "Colors"
+msgstr "颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:885
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:288
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:101
+msgid "Border"
+msgstr "边框"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:123
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:113
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:433
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:403
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:371
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:341
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:113
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:328
+msgid "Title Color"
+msgstr "标题颜色"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:163
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:165
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:93
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:94
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:147
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:201
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:237
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:238
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:519
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:525
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:557
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:563
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:625
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:732
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:736
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:766
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:770
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:968
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:970
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1131
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1153
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:187
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:193
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:225
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:231
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:301
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:163
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:322
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:328
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:360
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:366
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:398
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:404
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:411
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:186
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:190
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:203
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:207
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:347
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:363
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:109
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:322
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:399
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:415
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:492
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:508
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:434
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:438
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:452
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:456
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:225
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:229
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:243
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:247
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:92
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:119
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:329
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:363
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:147
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:181
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:152
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:72
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:360
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:655
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:670
+msgid "Hover"
+msgstr "悬停"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:148
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:150
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:75
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:76
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:111
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:112
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:128
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:165
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:166
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:182
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:219
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:220
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:500
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:506
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:538
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:544
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:610
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:715
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:719
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:749
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:753
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:953
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:954
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1093
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1119
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:168
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:174
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:206
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:212
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:283
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:145
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:303
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:309
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:341
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:347
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:379
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:385
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:394
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:157
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:159
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:174
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:176
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:177
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:315
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:331
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:95
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:306
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:367
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:383
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:460
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:476
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:404
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:406
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:422
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:424
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:195
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:197
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:213
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:215
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:79
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:106
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:312
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:346
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:130
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:164
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:139
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:59
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:346
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:534
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:549
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:640
+msgid "Normal"
+msgstr "标准"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:113
+msgid "Post Structure"
+msgstr "文章结构"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:89
+msgid "Post Content"
+msgstr "文章内容"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:104
+msgid "Archives Layout"
+msgstr "归档布局"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:83
+msgid "Blog Post Layout"
+msgstr "博客文章布局"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:64
+msgid "Page Layout"
+msgstr "页面布局"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:140
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:123
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:182
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:96
+msgid "Structure"
+msgstr "结构"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:194
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:129
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:74
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:74
+msgid "Custom Width"
+msgstr "自定义宽度"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:401
+msgid "Top Border Color"
+msgstr "上边框颜色"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:201
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:201
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:183
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:387
+msgid "Top Border Size"
+msgstr "上边框尺寸"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:465
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:591
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:683
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:819
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:994
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:96
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:334
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:427
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:159
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:179
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:245
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:290
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:90
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:160
+msgid "Text"
+msgstr "文本"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:141
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:546
+msgid "Menu Label"
+msgstr "菜单标签"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:472
+msgid "Mobile Menu"
+msgstr "移动端菜单"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:463
+msgid "Take Last Item Outside Menu"
+msgstr "将最后一项放在菜单外"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:226
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:145
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:376
+msgid "Divider Color"
+msgstr "分隔线颜色"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:365
+msgid "Submenu Divider"
+msgstr "子菜单分隔符"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:334
+msgid "Container Border"
+msgstr "容器边框"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:292
+msgid "Sub Menu"
+msgstr "子菜单"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:116
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:116
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:116
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:455
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:146
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:411
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:381
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:358
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:74
+msgid "Width"
+msgstr "宽度"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:515
+msgid "The parent menu should have a # link for the submenu to open on a link."
+msgstr "父菜单应具有＃链接，以便子菜单在链接上打开。"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:150
+msgid "Center"
+msgstr "居中"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:272
+msgid "Disable on 404 Page?"
+msgstr "在404页上禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:249
+msgid "Disable on Singular?"
+msgstr "在单页面上禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:248
+msgid "All Pages, All Posts, All Attachments"
+msgstr "所有页面，所有文章，所有附件"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:226
+msgid "Disable on Single Post?"
+msgstr "在单文章中禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:204
+msgid "Disable on Single Page?"
+msgstr "在单页上禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:182
+msgid "Disable on Archive?"
+msgstr "在存档页禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:160
+msgid "Disable on Search?"
+msgstr "在搜索页禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:138
+msgid "Disable on Blog / Posts Page?"
+msgstr "在 博客/文章 页面上禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:137
+msgid "Latest posts page or when any page is selected as blog page"
+msgstr "最新文章页面或将任何页面选择为博客页面时"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:114
+msgid "Disable on Home Page?"
+msgstr "在首页上禁用？"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:47
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:55
+msgid "Before Title"
+msgstr "标题之前"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:355
+msgid "Breadcrumb Source"
+msgstr "面包屑来源"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:75
+msgid "Breadcrumb Overview"
+msgstr "面包屑概述"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:104
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:270
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:277
+msgid "Separator Color"
+msgstr "分隔符颜色"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:68
+msgid "Breadcrumb"
+msgstr "面包屑"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:975
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:946
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1384
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:945
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1003
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1380
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:944
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:974
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1002
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1030
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1376
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:927
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:909
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:891
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:421
+msgid "Week %s"
+msgstr "%s周"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:419
+msgid "Minute %s"
+msgstr "%s分钟"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:417
+msgid "Comment Page %s"
+msgstr "评论页面  %s"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:415
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#. Translators: %s is the search query.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:413
+msgid "Search results for: %s"
+msgstr "“%s”的搜索结果"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:411
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:102
+msgid "Archives"
+msgstr "归档"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:410
+msgid "404 Not Found"
+msgstr "404 未发现页面"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:408
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:407
+msgid "Browse:"
+msgstr "浏览："
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:126
+msgid "Latest Posts page is your site's front page when the latest posts are displayed on the home page."
+msgstr "最新文章页面是主页上显示最新文章时的站点首页。"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:125
+msgid "Disable on Latest Posts Page?"
+msgstr "在\"最新文章\"页面上禁用？"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:102
+msgid "Blog Page is when Latest Posts are selected to be displayed on a particular page."
+msgstr "博客页面是当“最新文章”被选择显示在特定页面上时。"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:101
+msgid "Disable on Blog page?"
+msgstr "在博客页面上禁用？"
+
+#: inc/core/class-astra-admin-settings.php:219
+msgid "Did you know Astra comes with dozens of ready-to-use <a href=\"https://wpastra.com/starter-templates/?utm_source=install-notice\">starter templates</a>? Install the Starter Templates plugin to get started."
+msgstr "您是否知道 Astra 附带了许多现成的<a href=\"https://wpastra.com/starter-templates/?utm_source=install-notice\">入门模板</a>？安装 Starter Templates 插件以开始使用。"
+
+#: inc/core/class-astra-admin-settings.php:218
+msgid "Thank you for installing Astra!"
+msgstr "感谢您安装 Astra！"
+
+#: inc/core/class-astra-admin-settings.php:192
+#: inc/core/class-astra-admin-settings.php:195
+msgid "Get Started"
+msgstr "开始使用"
+
+#: inc/class-astra-mobile-header.php:112
+#: inc/core/class-astra-walker-page.php:90
+#: inc/core/class-astra-walker-page.php:100
+msgid "Menu Toggle"
+msgstr "菜单切换"
+
+#: inc/core/class-astra-admin-settings.php:1417
+msgid "Plugin Successfully Deactivated"
+msgstr "插件已停用"
+
+#. translators: %1s Astra Theme
+#: inc/core/class-astra-admin-settings.php:1112
+msgid "Extend %1s with free plugins!"
+msgstr "用免费插件来扩展 %1s！"
+
+#: inc/core/class-astra-admin-settings.php:438
+#: inc/core/class-astra-admin-settings.php:500
+#: inc/core/class-astra-admin-settings.php:1282
+msgid "Deactivate"
+msgstr "停用"
+
+#: inc/core/class-astra-admin-settings.php:437
+#: inc/core/class-astra-admin-settings.php:499
+#: inc/core/class-astra-admin-settings.php:1248
+#: inc/core/class-astra-admin-settings.php:1265
+msgid "Activate"
+msgstr "启用"
+
+#: inc/core/class-astra-admin-settings.php:436
+#: inc/core/class-astra-admin-settings.php:498
+msgid "Deactivating"
+msgstr "正在停用"
+
+#: inc/core/class-astra-admin-settings.php:435
+#: inc/core/class-astra-admin-settings.php:497
+msgid "Activating"
+msgstr "正在启用"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:364
+msgid "Primary Header Button"
+msgstr "主页眉按钮"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:230
+msgid "Button Style"
+msgstr "按钮样式"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:206
+msgid "Button Link"
+msgstr "按钮链接"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:283
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:186
+msgid "Button Text"
+msgstr "按钮文本"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:187
+msgid "Border Hover Color"
+msgstr "边框悬停颜色"
+
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:260
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:224
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:223
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:203
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:247
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:289
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:152
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:171
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:257
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:351
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:222
+msgid "Border Size"
+msgstr "边框宽度"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:375
+msgid "Transparent Header Button"
+msgstr "透明页眉按钮"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:353
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:247
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:228
+msgid "Header Button"
+msgstr "页眉按钮"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:227
+msgid "Theme Button"
+msgstr "主题按钮"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:129
+msgid "Submenu"
+msgstr "子菜单"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1095
+msgid "Link / Text Color"
+msgstr "链接 / 文本颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:246
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:49
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:205
+msgid "Different Logo for Transparent Header?"
+msgstr "透明页眉使用不同Logo？"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:192
+msgid "Desktop + Mobile"
+msgstr "桌面端+移动端"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:191
+msgid "Mobile"
+msgstr "移动端"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:190
+msgid "Desktop"
+msgstr "桌面端"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:187
+msgid "Enable On"
+msgstr "启用"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:172
+msgid "Disable on Posts?"
+msgstr "在文章中禁用？"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:149
+msgid "Disable on Pages?"
+msgstr "在页面中禁用？"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:79
+msgid "This setting is generally not recommended on special pages such as archive, search, 404, etc. If you would like to enable it, uncheck this option"
+msgstr "不建议在一些特殊页面中启用此项，例如存档、搜索、404页面，等等。如果您想要启用，请不要勾选这里"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:78
+msgid "Disable on 404, Search & Archives?"
+msgstr "在404页面、搜索和存档中禁用？"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:56
+msgid "Enable on Complete Website"
+msgstr "在整个网站上启用"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:331
+msgid "Enabled"
+msgstr "已启用"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:57
+msgid "Disable on WooCommerce Product Pages?"
+msgstr "在WooCommerce产品页面禁用？"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-single-product-layout-configs.php:45
+msgid "Disable Product Navigation"
+msgstr "禁用产品导航"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:167
+msgid "Archive Content Width"
+msgstr "存档内容宽度"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:153
+msgid "Variable Product Button Text"
+msgstr "可变产品按钮文本"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:130
+msgid "Options"
+msgstr "选项"
+
+#. translators: %s Index
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:129
+#: inc/core/builder/class-astra-builder-options.php:1046
+#: inc/core/builder/class-astra-builder-options.php:1127
+#: inc/core/class-astra-theme-options.php:246
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:67
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:151
+msgid "Button"
+msgstr "按钮"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:127
+msgid "Variable Product Button"
+msgstr "可变产品按钮"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:97
+msgid "Cart Button Text"
+msgstr "购物车按钮文本"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:78
+msgid "Image"
+msgstr "图像"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:75
+msgid "Product Structure"
+msgstr "产品结构"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:53
+msgid "Archive Columns"
+msgstr "存档列"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:64
+msgid "EDD Single Product"
+msgstr "EDD单个产品"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:46
+msgid "Product Archive"
+msgstr "产品存档"
+
+#: inc/compatibility/edd/class-astra-edd.php:940
+msgid "This sidebar will be used on EDD Single Product page."
+msgstr "此侧边栏在EDD单个产品页面使用。"
+
+#: inc/compatibility/edd/class-astra-edd.php:938
+msgid "EDD Single Product Sidebar"
+msgstr "EDD单个产品侧边栏"
+
+#: inc/compatibility/edd/class-astra-edd.php:924
+msgid "Easy Digital Downloads Sidebar"
+msgstr "EDD侧边栏"
+
+#: inc/compatibility/edd/class-astra-edd.php:865
+msgid "View Details"
+msgstr "查看详情"
+
+#: inc/compatibility/edd/class-astra-edd.php:323
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:40
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:45
+#: inc/core/class-astra-admin-settings.php:984
+msgid "Easy Digital Downloads"
+msgstr "易数字下载"
+
+#. Translators: %s is the theme name.
+#: inc/metabox/class-astra-meta-boxes.php:168
+msgid "%s Settings"
+msgstr "%s设置"
+
+#: inc/customizer/class-astra-customizer.php:528
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:99
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:158
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:130
+msgid "900 Italic"
+msgstr "900 斜体"
+
+#: inc/customizer/class-astra-customizer.php:526
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:97
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:156
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:128
+msgid "800 Italic"
+msgstr "800 斜体"
+
+#: inc/customizer/class-astra-customizer.php:524
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:95
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:154
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:126
+msgid "700 Italic"
+msgstr "700 斜体"
+
+#: inc/customizer/class-astra-customizer.php:522
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:93
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:152
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:124
+msgid "600 Italic"
+msgstr "600 斜体"
+
+#: inc/customizer/class-astra-customizer.php:520
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:91
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:150
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:122
+msgid "500 Italic"
+msgstr "500 斜体"
+
+#: inc/customizer/class-astra-customizer.php:518
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:89
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:148
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:120
+msgid "400 Italic"
+msgstr "400 斜体"
+
+#: inc/customizer/class-astra-customizer.php:516
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:87
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:146
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:118
+msgid "300 Italic"
+msgstr "300 斜体"
+
+#: inc/customizer/class-astra-customizer.php:514
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:85
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:144
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:116
+msgid "200 Italic"
+msgstr "200 斜体"
+
+#: inc/customizer/class-astra-customizer.php:512
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:83
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:142
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:114
+msgid "100 Italic"
+msgstr "100 斜体"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:113
+msgid "Overline"
+msgstr "排版"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:112
+msgid "Underline"
+msgstr "下划线"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:171
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:320
+msgid "Fade"
+msgstr "渐褪"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:170
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:319
+msgid "Slide Up"
+msgstr "向上滑"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:169
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:318
+msgid "Slide Down"
+msgstr "向下滑"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:332
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:252
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:187
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:426
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:74
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:99
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:305
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:146
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:263
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:288
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:492
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:226
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:308
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:96
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:149
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:249
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:132
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:481
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:276
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:363
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:623
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:125
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:415
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:440
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:140
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:228
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:394
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:416
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:364
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:386
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:339
+msgid "Left"
+msgstr "左边"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:331
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:251
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:186
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:425
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:73
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:98
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:304
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:163
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:163
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:145
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:262
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:287
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:143
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:491
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:225
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:307
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:248
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:131
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:480
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:275
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:362
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:622
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:124
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:414
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:439
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:139
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:227
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:393
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:415
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:363
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:385
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:338
+msgid "Bottom"
+msgstr "底部"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:330
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:250
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:185
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:424
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:72
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:97
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:303
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:144
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:261
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:286
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:490
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:224
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:306
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:97
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:151
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:247
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:130
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:479
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:274
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:361
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:621
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:123
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:413
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:438
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:138
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:226
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:392
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:414
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:362
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:384
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:337
+msgid "Right"
+msgstr "右边"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:329
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:249
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:184
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:423
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:71
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:96
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:302
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:161
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:161
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:143
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:260
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:285
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:141
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:489
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:223
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:305
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:246
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:129
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:478
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:273
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:360
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:620
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:122
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:412
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:437
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:137
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:225
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:391
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:413
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:361
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:383
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:336
+msgid "Top"
+msgstr "顶部"
+
+#: inc/core/class-astra-admin-settings.php:875
+msgid "Nav Menu"
+msgstr "导航菜单"
+
+#. Translators: Author Name.
+#: inc/blog/blog-config.php:148
+msgid "View all posts by %1$s"
+msgstr "查看%1$s的所有文章"
+
+#: inc/core/common-functions.php:1179
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索 &hellip;"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:306
+msgid "Typography Overview"
+msgstr "字体样式概览"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:264
+msgid "Colors & Background Overview"
+msgstr "颜色和背景概览"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:228
+msgid "Sidebar Overview"
+msgstr "侧边栏概览"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:186
+msgid "Footer Bar Overview"
+msgstr "页脚栏概览"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:130
+msgid "Primary Header Overview"
+msgstr "主页眉概览"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:103
+msgid "Site Identity Overview"
+msgstr "网站标识概览"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:64
+msgid "Container Overview"
+msgstr "容器概览"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:58
+msgid "Site Layout Overview"
+msgstr "网站布局概览"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:72
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:55
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:100
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:127
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:183
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:225
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:261
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:303
+msgid "Helpful Information"
+msgstr "有用的信息"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:263
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:100
+msgid "Different Logo For Retina Devices?"
+msgstr "高分辨率（Retina）设备使用不同Logo？"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:574
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:903
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1010
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:118
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:127
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:166
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:646
+msgid "Link"
+msgstr "链接"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:643
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:782
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:851
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:126
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:157
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:244
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:645
+msgid "Icon"
+msgstr "图标"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:123
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:641
+msgid "Dropdown Target"
+msgstr "下拉目标"
+
+#: inc/core/class-astra-admin-settings.php:1434
+msgid " Lightning Fast & Fully Customizable WordPress theme!"
+msgstr " 闪电般快速且完全可自定义的WordPress主题！"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:192
+msgid "Mobile Logo (optional)"
+msgstr "移动端Logo（可选）"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:158
+msgid "Different Logo For Mobile Devices?"
+msgstr "移动设备使用不同Logo？"
+
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:316
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:154
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:270
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:143
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:306
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:201
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:464
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:435
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:613
+msgid "Border Radius"
+msgstr "边界圆角"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:597
+msgid "Toggle Button Color"
+msgstr "切换按钮颜色"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:116
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:577
+msgid "Minimal"
+msgstr "简化"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:106
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:115
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:95
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:576
+msgid "Outline"
+msgstr "轮廓"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:107
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:114
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:96
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:575
+msgid "Fill"
+msgstr "填充"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:109
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:563
+msgid "Toggle Button Style"
+msgstr "切换按钮样式"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:442
+msgid "Hide Last Item in Menu on Mobile"
+msgstr "在移动端隐藏菜单的最后一项"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:145
+msgid "Last Item in Menu"
+msgstr "菜单中的最后一项"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:188
+msgid "Header Layout"
+msgstr "页眉布局"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:488
+msgid "Menu Breakpoint"
+msgstr "菜单断点"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:95
+msgid "Site Identity"
+msgstr "网站标识"
+
+#: inc/core/class-astra-admin-settings.php:849
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:397
+msgid "Mobile Header"
+msgstr "移动端页眉"
+
+#: inc/compatibility/learndash/customizer/class-astra-customizer-register-learndash-section.php:40
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:46
+#: inc/core/class-astra-admin-settings.php:997
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:129
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:183
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:481
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:698
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:870
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:243
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:243
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:142
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:227
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:130
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:130
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:163
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:221
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:147
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:350
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:443
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:388
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:180
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:166
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:125
+msgid "Background"
+msgstr "背景"
+
+#: inc/core/class-astra-admin-settings.php:998
+msgid "Supercharge your LearnDash website with amazing design features."
+msgstr "为您的LearnDash网站增添惊人的设计特征。"
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:47
+msgid "This layout will apply on all single course, lesson, topic and quiz."
+msgstr "此布局适用于所有单一课程、课堂、主题和测验。"
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:46
+msgid "Will be applied to All Single Courses, Topics, Lessons and Quizzes. Does not work on pages created with LearnDash shortcodes."
+msgstr "将适用于所有单一课程、主题、课堂和测验。对于使用LearnDash简码创建的页面不起作用。"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:61
+msgid "Differentiate Rows"
+msgstr "区分行"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:44
+msgid "Display Serial Number"
+msgstr "显示序列号"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:48
+msgid "Course Content Table"
+msgstr "课程内容表"
+
+#: inc/markup-extras.php:1580
+msgid "Astra Pro"
+msgstr "Astra专业版"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:466
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:669
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:143
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:50
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:256
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:52
+msgid "Learn More"
+msgstr "了解更多"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:60
+msgid "Theme Color"
+msgstr "主题颜色"
+
+#: inc/customizer/astra-pro/class-astra-pro-upgrade-link-configs.php:34
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:466
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:669
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:143
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:50
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:256
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:52
+msgid "More Options Available in Astra Pro!"
+msgstr "Astra 专业版有更多可用的选项！"
+
+#: inc/core/class-astra-admin-settings.php:1373
+msgid "Plugin Successfully Activated"
+msgstr "插件激活成功"
+
+#: inc/core/class-astra-admin-settings.php:1347
+#: inc/core/class-astra-admin-settings.php:1396
+msgid "No plugin specified"
+msgstr "没有指定插件"
+
+#: inc/core/class-astra-admin-settings.php:1040
+msgid "Links to Customizer Settings:"
+msgstr "定制器设置链接："
+
+#: inc/core/class-astra-admin-settings.php:1024
+msgid "White Label"
+msgstr "品牌白标"
+
+#: inc/core/class-astra-admin-settings.php:958
+msgid "Scroll To Top"
+msgstr "滚动到顶部"
+
+#: inc/core/class-astra-admin-settings.php:932
+msgid "Site Layouts"
+msgstr "站点布局"
+
+#: inc/core/class-astra-admin-settings.php:918
+msgid "Add content conditionally in the various hook areas of the theme."
+msgstr "在主题的各个挂钩区域中有条件地添加内容。"
+
+#: inc/core/class-astra-admin-settings.php:916
+msgid "Custom Layouts"
+msgstr "自定义布局"
+
+#: inc/core/class-astra-admin-settings.php:902
+msgid "Make your header layouts look more appealing and sexy!"
+msgstr "让您的页眉布局看起来更时髦和吸引人！"
+
+#: inc/core/class-astra-admin-settings.php:901
+msgid "Page Headers"
+msgstr "页面页眉"
+
+#: inc/core/class-astra-admin-settings.php:888
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:509
+msgid "Sticky Header"
+msgstr "固定页眉"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:327
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:48
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:440
+msgid "Transparent Header"
+msgstr "透明页眉"
+
+#: inc/core/class-astra-admin-settings.php:862
+msgid "Header Sections"
+msgstr "页眉区域"
+
+#: inc/core/class-astra-admin-settings.php:836
+msgid "Blog Pro"
+msgstr "博客专业版"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:325
+#: inc/core/class-astra-admin-settings.php:823
+msgid "Spacing"
+msgstr "间距"
+
+#: inc/core/class-astra-admin-settings.php:786
+msgid "Sidebar Options"
+msgstr "侧边栏选项"
+
+#: inc/core/class-astra-admin-settings.php:761
+msgid "Footer Settings"
+msgstr "页脚设置"
+
+#: inc/core/class-astra-admin-settings.php:781
+msgid "Blog Layouts"
+msgstr "博客布局"
+
+#: inc/core/class-astra-admin-settings.php:751
+msgid "Header Options"
+msgstr "页眉选项"
+
+#: inc/core/class-astra-admin-settings.php:771
+msgid "Layout Options"
+msgstr "布局选项"
+
+#: inc/core/class-astra-admin-settings.php:776
+msgid "Customize Fonts"
+msgstr "自定义字体"
+
+#: inc/core/class-astra-admin-settings.php:766
+msgid "Set Colors"
+msgstr "设置颜色"
+
+#: inc/core/class-astra-admin-settings.php:756
+msgid "Upload Logo"
+msgstr "上传 Logo"
+
+#: inc/core/class-astra-admin-settings.php:744
+msgid "More Options Available with Astra Pro!"
+msgstr "使用 Astra 专业版有更多可用的选项！"
+
+#: inc/core/class-astra-admin-settings.php:633
+msgid "Five Star Support"
+msgstr "五星支持"
+
+#: inc/core/class-astra-admin-settings.php:629
+msgid "Knowledge Base"
+msgstr "知识库"
+
+#: inc/core/class-astra-admin-settings.php:348
+msgid "Install Importer Plugin"
+msgstr "安装导入插件"
+
+#: inc/core/class-astra-admin-settings.php:322
+#: inc/core/class-astra-admin-settings.php:335
+msgid "Activate Importer Plugin"
+msgstr "激活导入插件"
+
+#. translators: %1$s: Starter site link.
+#: inc/core/class-astra-admin-settings.php:696
+msgid "Did you know %1$s offers a free library of %2$s "
+msgstr "您知道 %1$s 提供了一个免费的%2$s库吗？ "
+
+#: inc/core/class-astra-admin-settings.php:327
+#: inc/core/class-astra-admin-settings.php:340
+#: inc/core/class-astra-admin-settings.php:432
+#: inc/core/class-astra-admin-settings.php:494
+msgid "Activating Importer Plugin "
+msgstr "正在激活导入插件 "
+
+#: inc/core/class-astra-admin-settings.php:99
+msgid "Astra Options"
+msgstr "Astra 选项"
+
+#: inc/customizer/class-astra-customizer.php:1305
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:43
+msgid "Default System Font"
+msgstr "默认系统字体"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:111
+msgid "Shop Archive Content Width"
+msgstr "商店存档内容宽度"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:87
+msgid "Membership Columns"
+msgstr "会员列"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:60
+msgid "Course Columns"
+msgstr "课程列"
+
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:64
+msgid "LifterLMS Course/Lesson"
+msgstr "LifterLMS课程/课堂"
+
+#: inc/compatibility/lifterlms/customizer/class-astra-liferlms-section-configs.php:39
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:45
+#: inc/core/class-astra-admin-settings.php:1011
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:62
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:316
+msgid "Leave Review"
+msgstr "留下评论"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:312
+msgid "Review Text is required."
+msgstr "必须填写评论文本。"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:311
+msgid "Review Text"
+msgstr "评论文本"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:310
+msgid "Review Title is required."
+msgstr "必须填写评论标题。"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:309
+msgid "Review Title"
+msgstr "评论标题"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:308
+msgid "Write a Review"
+msgstr "写一条评论"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:302
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:319
+msgid "Thank you for your review!"
+msgstr "感谢您的评论！"
+
+#. translators: 1 Author Name.
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:265
+msgid "By: %s"
+msgstr "作者：%s"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:236
+msgid "What Others Have Said"
+msgstr "其他人的评论"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:139
+msgid "Sidebar width will apply only when one of the above sidebar is set."
+msgstr "只有当设置了以上一个侧边栏时，侧边栏宽度才会适用。"
+
+#: inc/core/class-astra-admin-settings.php:439
+#: inc/core/class-astra-admin-settings.php:501
+msgid "Settings"
+msgstr "设置"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:296
+msgid "Inline Logo & Site Title"
+msgstr "Logo与站点标题在同一行"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:200
+msgid "Blog"
+msgstr "博客"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:122
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:56
+msgid "Primary Header"
+msgstr "主页眉"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:138
+msgid "Availability:"
+msgstr "剩余量："
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:84
+msgid "Out of stock"
+msgstr "缺货"
+
+#: inc/compatibility/edd/class-astra-edd.php:863
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:83
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:96
+msgid "Add To Cart"
+msgstr "添加到购物车"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:82
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:95
+msgid "Short Description"
+msgstr "简要描述"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:94
+msgid "Ratings"
+msgstr "评级"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:81
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:93
+msgid "Price"
+msgstr "价格"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:920
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:80
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:92
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:80
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:360
+msgid "Title"
+msgstr "标题"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:90
+msgid "Shop Product Structure"
+msgstr "商店产品结构"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:68
+msgid "Products Per Page"
+msgstr "每页产品数"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:53
+msgid "Shop Columns"
+msgstr "商店列"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:45
+#: inc/metabox/class-astra-meta-boxes.php:325
+msgid "Disable Breadcrumb"
+msgstr "禁用面包屑"
+
+#: inc/compatibility/edd/class-astra-edd.php:103
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:127
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:62
+#: inc/core/builder/class-astra-builder-helper.php:690
+#: inc/core/builder/class-astra-builder-helper.php:700
+msgid "Cart"
+msgstr "购物车"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:55
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:54
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:64
+msgid "Single Product"
+msgstr "单件产品"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:45
+msgid "Shop"
+msgstr "商店"
+
+#: inc/compatibility/lifterlms/customizer/class-astra-liferlms-section-configs.php:48
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:38
+msgid "General"
+msgstr "总体"
+
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:45
+#: inc/core/class-astra-admin-settings.php:971
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:66
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/compatibility/edd/class-astra-edd.php:445
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:1752
+msgid "View your shopping cart"
+msgstr "查看您的购物车"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:586
+msgid "This sidebar will be used on Single Product page."
+msgstr "该侧边栏将用于单件产品页面。"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:584
+msgid "Product Sidebar"
+msgstr "产品侧边栏"
+
+#: inc/compatibility/edd/class-astra-edd.php:926
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:572
+msgid "This sidebar will be used on Product archive, Cart, Checkout and My Account pages."
+msgstr "该侧边栏将用于产品存档、购物车、结帐和我的帐户页面。"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:570
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce 侧边栏"
+
+#: inc/core/common-functions.php:881
+msgid "This page doesn't seem to exist."
+msgstr "这个页面似乎不存在。"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:409
+#: inc/core/common-functions.php:875
+msgid "Home"
+msgstr "首页"
+
+#: inc/metabox/class-astra-meta-boxes.php:333
+msgid "Disable Featured Image"
+msgstr "禁用主打图片"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:327
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:222
+msgid "Logo Width"
+msgstr "Logo 宽度"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:301
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:139
+msgid "Retina Logo"
+msgstr "高分辨率（Retina）logo"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:713
+#: inc/metabox/class-astra-meta-boxes.php:346
+msgid "Disable Footer Widgets"
+msgstr "禁用页脚小工具"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:159
+msgid "Paragraph Margin Bottom"
+msgstr "段落底部外边距"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:117
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:99
+msgid "Title & Blog Meta"
+msgstr "标题&博客Meta"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:116
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:98
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:154
+msgid "Featured Image"
+msgstr "特色图片"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:65
+msgid "Continue reading %s"
+msgstr "继续阅读%s"
+
+#: inc/widgets.php:199
+msgid "Footer Widget Area 4"
+msgstr "页脚小工具区域4"
+
+#: inc/widgets.php:185
+msgid "Footer Widget Area 3"
+msgstr "页脚小工具区域3"
+
+#: inc/widgets.php:171
+msgid "Footer Widget Area 2"
+msgstr "页脚小工具区域2"
+
+#: inc/widgets.php:157
+msgid "Footer Widget Area 1"
+msgstr "页脚小工具区域1"
+
+#: inc/widgets.php:139
+msgid "Footer Bar Section 2"
+msgstr "页脚栏区域2"
+
+#: inc/widgets.php:124
+msgid "Footer Bar Section 1"
+msgstr "页脚栏区域1"
+
+#: inc/template-parts.php:172
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:330
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:740
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:752
+#: inc/metabox/class-astra-meta-boxes.php:244
+#: inc/metabox/class-astra-meta-boxes.php:260
+msgid "Customizer Setting"
+msgstr "定制器设置"
+
+#: inc/markup-extras.php:1313
+msgid "Click here to assign a widget for this area."
+msgstr "点击此处为此区域指定一个小工具。"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:329
+msgid "Headings"
+msgstr "标题"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:58
+msgid "Footer Bar Layout 2"
+msgstr "页脚栏布局2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:54
+msgid "Footer Bar Layout 1"
+msgstr "页脚栏布局1"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:64
+msgid "Pages"
+msgstr "页面"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:52
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:52
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:756
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:53
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:52
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:50
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:71
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:110
+#: inc/metabox/class-astra-meta-boxes.php:264
+msgid "Full Width / Stretched"
+msgstr "完全宽度 / 拉伸"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:51
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:51
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:755
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:52
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:51
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:70
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:88
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:109
+#: inc/metabox/class-astra-meta-boxes.php:263
+msgid "Full Width / Contained"
+msgstr "完全宽度 / 包含"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:45
+msgid "Default Layout"
+msgstr "默认布局"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:446
+msgid "Layout 4"
+msgstr "布局4"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:442
+msgid "Disable"
+msgstr "禁用"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1135
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1170
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:122
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:372
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:240
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:289
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:88
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:73
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:314
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:556
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:661
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:320
+msgid "Base Typography"
+msgstr "基础字体样式"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:278
+msgid "Base Colors"
+msgstr "基础颜色"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:177
+msgid "Footer Bar"
+msgstr "页脚栏"
+
+#. translators: 1: Post type label
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:79 inc/core/class-theme-strings.php:94
+msgid "Previous %s"
+msgstr "前一篇%s"
+
+#. translators: 1: Post type label
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:77 inc/core/class-theme-strings.php:92
+msgid "Next %s"
+msgstr "后一篇%s"
+
+#: inc/customizer/class-astra-customizer.php:527
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:98
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:157
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:129
+msgid "Ultra-Bold 900"
+msgstr "超粗 900"
+
+#: inc/customizer/class-astra-customizer.php:525
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:96
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:155
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:127
+msgid "Extra-Bold 800"
+msgstr "特粗 800"
+
+#: inc/customizer/class-astra-customizer.php:523
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:94
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:153
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:125
+msgid "Bold 700"
+msgstr "粗体 700"
+
+#: inc/customizer/class-astra-customizer.php:521
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:92
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:151
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:123
+msgid "Semi-Bold 600"
+msgstr "半粗 600"
+
+#: inc/customizer/class-astra-customizer.php:519
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:90
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:149
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:121
+msgid "Medium 500"
+msgstr "中等 500"
+
+#: inc/customizer/class-astra-customizer.php:517
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:88
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:147
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:119
+msgid "Normal 400"
+msgstr "标准 400"
+
+#: inc/customizer/class-astra-customizer.php:515
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:86
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:145
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:117
+msgid "Light 300"
+msgstr "细体 300"
+
+#: inc/customizer/class-astra-customizer.php:513
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:84
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:143
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:115
+msgid "Extra-Light 200"
+msgstr "较细 200"
+
+#: inc/customizer/class-astra-customizer.php:511
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:82
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:141
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:113
+msgid "Thin 100"
+msgstr "纤细 100"
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备发布您的第一篇文章？<a href=\"%1$s\">从这里开始</a>。"
+
+#: inc/core/class-astra-admin-settings.php:945
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:169
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:287
+msgid "Footer Widgets"
+msgstr "页脚小工具"
+
+#: inc/widgets.php:88
+msgid "Main Sidebar"
+msgstr "主侧边栏"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:35 template-parts/content-page.php:75
+#: template-parts/single/single-layout.php:49
+msgid "Edit %s"
+msgstr "编辑 %s"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:666
+#: inc/metabox/class-astra-meta-boxes.php:290
+msgid "Disable Primary Header"
+msgstr "禁用主页眉"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:704
+#: inc/metabox/class-astra-meta-boxes.php:315
+msgid "Disable Title"
+msgstr "禁用标题"
+
+#: inc/metabox/class-astra-meta-boxes.php:274
+msgid "Disable Sections"
+msgstr "禁用区域"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:728
+msgid "Astra Settings"
+msgstr "Astra设置"
+
+#: inc/markup-extras.php:1276
+msgid "Add Widget"
+msgstr "添加小工具"
+
+#: inc/builder/type/footer/menu/class-astra-footer-menu-component.php:84
+#: inc/builder/type/header/account/class-astra-header-account-component.php:66
+#: inc/builder/type/header/account/class-astra-header-account-component.php:136
+#: inc/builder/type/header/menu/class-astra-header-menu-component.php:94
+#: inc/builder/type/header/menu/class-astra-header-menu-component.php:141
+#: inc/builder/type/header/mobile-menu/class-astra-mobile-menu-component.php:72
+#: inc/builder/type/header/mobile-menu/class-astra-mobile-menu-component.php:119
+#: inc/markup-extras.php:836 inc/markup-extras.php:872
+msgid "Site Navigation"
+msgstr "网站导航"
+
+#: inc/markup-extras.php:620
+msgid "Assign Footer Menu"
+msgstr "指定页脚菜单"
+
+#: inc/markup-extras.php:440
+msgid "Add Custom HTML"
+msgstr "添加自定义HTML"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:398
+msgid "Site Title"
+msgstr "站点标题"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:159
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:117
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:195
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:268
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:386
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:592
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:383
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:303
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:136
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:260
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:763
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:857
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:951
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1045
+msgid "Line Height"
+msgstr "行高"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:143
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:102
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:178
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:255
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:370
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:559
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:350
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:287
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:101
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:246
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:748
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:842
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:936
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1030
+msgid "Lowercase"
+msgstr "小写字母"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:142
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:101
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:177
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:254
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:369
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:558
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:349
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:286
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:100
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:245
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:747
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:841
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:935
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1029
+msgid "Uppercase"
+msgstr "大写字母"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:141
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:100
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:176
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:253
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:368
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:557
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:348
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:285
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:99
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:244
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:746
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:840
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:934
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1028
+msgid "Capitalize"
+msgstr "首字母大写"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:139
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:98
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:174
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:251
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:366
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:555
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:346
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:283
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:242
+#: inc/customizer/custom-controls/font-variant/class-astra-control-font-variant.php:87
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:111
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:744
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:838
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:932
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1026
+msgid "Inherit"
+msgstr "继承"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:135
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:93
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:168
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:245
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:359
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:552
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:343
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:276
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:95
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:238
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:739
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:833
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:927
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1021
+msgid "Text Transform"
+msgstr "文本转换"
+
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:401
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:171
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:374
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:274
+msgid "Display Site Tagline"
+msgstr "显示站点标语"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:74
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:241
+msgid "Display Site Title"
+msgstr "显示站点标题"
+
+#: inc/customizer/configurations/layout/class-astra-site-layout-configs.php:42
+msgid "Container Width"
+msgstr "容器宽度"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:122
+msgid "Sidebar Width"
+msgstr "侧边栏宽度"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:50
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:69
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:52
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:742
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:50
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:69
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:50
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:69
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:69
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:88
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:107
+#: inc/metabox/class-astra-meta-boxes.php:246
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:49
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:68
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:51
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:741
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:49
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:68
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:49
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:68
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:68
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:87
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:106
+#: inc/metabox/class-astra-meta-boxes.php:245
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:48
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:67
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:50
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:743
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:48
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:67
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:48
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:67
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:67
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:86
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:105
+#: inc/metabox/class-astra-meta-boxes.php:247
+msgid "No Sidebar"
+msgstr "没有侧边栏"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:180
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:180
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:97
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:160
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:416
+msgid "Stack"
+msgstr "堆叠"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:181
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:181
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:96
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:161
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:412
+msgid "Inline"
+msgstr "行内"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:368
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:110
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:110
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:122
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:120
+msgid "Bottom Border Color"
+msgstr "底部边框颜色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:346
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:88
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:88
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:102
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:93
+msgid "Bottom Border Size"
+msgstr "底部边框宽度"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:284
+msgid "Custom Menu Text / HTML"
+msgstr "自定义菜单文本/HTML"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:152
+msgid "Text / HTML"
+msgstr "文本/HTML"
+
+#: inc/core/builder/class-astra-builder-helper.php:656
+#: inc/core/builder/class-astra-builder-helper.php:718
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:50
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:150
+#: inc/markup-extras.php:407 searchform.php:30 searchform.php:36
+msgid "Search"
+msgstr "搜索"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:129
+msgid "Disable Menu"
+msgstr "禁用菜单"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:58
+msgid "Logo Right"
+msgstr "Logo 在右边"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:54
+msgid "Logo Center"
+msgstr "Logo 在中间"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:50
+msgid "Logo Left"
+msgstr "Logo 在左侧"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:119
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:119
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:119
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:458
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:46
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:45
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:361
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:77
+msgid "Content Width"
+msgstr "内容宽度"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:118
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:118
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:118
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:457
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:360
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:76
+msgid "Full Width"
+msgstr "全宽度"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:191
+msgid "Section 2 Custom Text"
+msgstr "区域2自定义文本"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:157
+msgid "Section 2"
+msgstr "区域2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:125
+msgid "Section 1 Custom Text"
+msgstr "区域1自定义文本"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:91
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:129
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:161
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:153
+msgid "Widget"
+msgstr "小工具"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:128
+msgid "Custom Text"
+msgstr "自定义文本"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:44
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:52
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:140
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:99
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:175
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:252
+#: inc/addons/heading-colors/customizer/class-astra-heading-colors-configs.php:367
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:243
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:110
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:168
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:556
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:347
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:284
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:127
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:159
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:149
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:317
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:98
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:243
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:745
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:839
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:933
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:1027
+msgid "None"
+msgstr "无"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:86
+msgid "Section 1"
+msgstr "区域1"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-builder-configs.php:164
+msgid "Footer Layout"
+msgstr "页脚布局"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:332
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:50
+msgid "Disabled"
+msgstr "停用"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:62
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1118
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1149
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1186
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:149
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:278
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:255
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:195
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:262
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:62
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:350
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:367
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:168
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:185
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:42
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:269
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:83
+msgid "Blog Posts"
+msgstr "博客文章"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:50
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:50
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:754
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:51
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:50
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:69
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:87
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:108
+#: inc/metabox/class-astra-meta-boxes.php:262
+msgid "Content Boxed"
+msgstr "盒式内容"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:49
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:49
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:753
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:50
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:68
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:86
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:107
+#: inc/metabox/class-astra-meta-boxes.php:261
+msgid "Boxed"
+msgstr "盒式"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:749
+#: inc/metabox/class-astra-meta-boxes.php:257
+msgid "Content Layout"
+msgstr "内容布局"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:96
+msgid "Excerpt"
+msgstr "摘要"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:95
+msgid "Full Content"
+msgstr "全部内容"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:170
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:114
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:223
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:48
+msgid "Custom"
+msgstr "自定义"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:36
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:48
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:47
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:66
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:169
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:48
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:49
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:49
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:47
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:66
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:48
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:47
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:66
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:113
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:42
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:66
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:85
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:104
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:67
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:85
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:106
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:61
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:78
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:97
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:207
+msgid "Default"
+msgstr "默认"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:146
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:129
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:188
+msgid "Tag"
+msgstr "标签"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:145
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:128
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:187
+msgid "Publish Date"
+msgstr "发布日期"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:144
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:127
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:186
+msgid "Author"
+msgstr "作者"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:79
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:143
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:126
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:185
+msgid "Category"
+msgstr "分类目录"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:142
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:125
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:184
+msgid "Comments"
+msgstr "评论"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:86
+msgid "Link Hover Color"
+msgstr "链接悬停颜色"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:83
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:137
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:114
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:120
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:224
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:246
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:48
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:316
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:333
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:134
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:151
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:126
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:47
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:44
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:541
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:342
+msgid "Buttons"
+msgstr "按钮"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:44
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:938
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:999
+msgid "Content"
+msgstr "内容"
+
+#: inc/core/class-astra-admin-settings.php:810
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:298
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:325
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:196
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:428
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:443
+msgid "Typography"
+msgstr "字体样式"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:387
+#: inc/core/class-astra-admin-settings.php:797
+msgid "Colors & Background"
+msgstr "颜色和背景"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:737
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:221
+#: inc/metabox/class-astra-meta-boxes.php:241
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:213
+msgid "Single Post"
+msgstr "单篇文章"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:206
+msgid "Blog / Archive"
+msgstr "博客/存档"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:150
+msgid "Footer"
+msgstr "页脚"
+
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:57
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:83
+#: inc/widgets.php:106
+msgid "Header"
+msgstr "页眉"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:50
+msgid "Container"
+msgstr "容器"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:93
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:93
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:86
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:93
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:437
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:43
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:423
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:45
+msgid "Layout"
+msgstr "布局"
+
+#: inc/customizer/class-astra-customizer-sanitizes.php:296
+msgid "Enter valid email address!"
+msgstr "请输入有效的电子邮件地址！"
+
+#. translators: 1: search string
+#. translators: 1: search string
+#: inc/core/common-functions.php:887 inc/core/common-functions.php:979
+msgid "Search Results for: %s"
+msgstr "“%s”的搜索结果"
+
+#: inc/core/class-theme-strings.php:82
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们似乎找不到您想要的东西，或许搜索会有用。"
+
+#: inc/core/class-theme-strings.php:72 inc/core/class-theme-strings.php:89
+msgid "Previous Page"
+msgstr "前一页"
+
+#: inc/core/class-theme-strings.php:71 inc/core/class-theme-strings.php:88
+msgid "Next Page"
+msgstr "后一页"
+
+#: inc/core/class-theme-strings.php:70
+msgid "% Comments"
+msgstr "%条评论"
+
+#: inc/core/class-theme-strings.php:69
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: inc/core/class-theme-strings.php:67
+msgid "By "
+msgstr "作者："
+
+#: inc/core/class-theme-strings.php:66 inc/core/class-theme-strings.php:75
+msgid "Pages:"
+msgstr "页面："
+
+#: inc/core/class-theme-strings.php:63
+msgid "Older Comments"
+msgstr "更早期的评论"
+
+#: inc/core/class-theme-strings.php:62
+msgid "Newer Comments"
+msgstr "更近期的评论"
+
+#: inc/core/class-theme-strings.php:61
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: inc/core/class-theme-strings.php:60
+msgid "Comments are closed."
+msgstr "评论区已关闭。"
+
+#: inc/core/class-theme-strings.php:59
+msgid "Website"
+msgstr "网站"
+
+#: inc/core/class-theme-strings.php:58
+msgid "Email*"
+msgstr "电子邮箱*"
+
+#: inc/core/class-theme-strings.php:57
+msgid "Name*"
+msgstr "名字*"
+
+#: inc/core/class-theme-strings.php:56
+msgid "Type here.."
+msgstr "在此输入..."
+
+#: inc/core/class-theme-strings.php:55
+msgid "Post Comment &raquo;"
+msgstr "提交评论 &raquo;"
+
+#: inc/core/class-theme-strings.php:54
+msgid "Cancel Reply"
+msgstr "取消回复"
+
+#: inc/core/class-theme-strings.php:53 inc/core/class-theme-strings.php:68
+msgid "Leave a Comment"
+msgstr "发表评论"
+
+#: inc/core/class-theme-strings.php:52
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: inc/core/class-theme-strings.php:51
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/core/class-theme-strings.php:50
+msgid "Reply"
+msgstr "回复"
+
+#: inc/core/class-theme-strings.php:45 inc/core/class-theme-strings.php:46
+#: inc/core/class-theme-strings.php:47
+msgid "Search &hellip;"
+msgstr "搜索&hellip;"
+
+#: inc/core/class-theme-strings.php:44
+msgid "Start typing and press enter to search"
+msgstr "开始输入并按回车键进行搜索"
+
+#: inc/core/class-theme-strings.php:43
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有找到与您的搜索字词相匹配的结果。请使用不同的关键字再试一次。"
+
+#: inc/core/class-theme-strings.php:42
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: inc/core/class-theme-strings.php:39
+msgid "It looks like the link pointing here was faulty. Maybe try searching?"
+msgstr "看起来指向这里的链接有误。也许试着搜索一下？"
+
+#: inc/core/class-theme-strings.php:36
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: inc/core/class-astra-theme-options.php:245
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: inc/core/class-astra-theme-options.php:211
+#: inc/core/class-astra-theme-options.php:213
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "版权所有 &copy; [current_year] [site_title] | 主题作者 [theme_author]"
+
+#: inc/compatibility/class-astra-beaver-themer.php:358
+msgid "Loop End"
+msgstr "循环结束"
+
+#: inc/compatibility/class-astra-beaver-themer.php:357
+msgid "After Comments"
+msgstr "评论之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:356
+msgid "Before Comments"
+msgstr "评论之前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:355
+msgid "After Post"
+msgstr "文章之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:354
+msgid "After Post Content"
+msgstr "文章内容之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:353
+msgid "Before Post Content"
+msgstr "文章内容之前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:352
+msgid "Before Post"
+msgstr "文章之前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:351
+msgid "Loop Start"
+msgstr "循环开始"
+
+#: inc/compatibility/class-astra-beaver-themer.php:345
+msgid "After Sidebar"
+msgstr "侧边栏之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:344
+msgid "Before Sidebar"
+msgstr "侧边栏之前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:338
+msgid "After Footer"
+msgstr "页脚之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:337
+msgid "Before Footer"
+msgstr "页脚之前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:331
+msgid "After Content"
+msgstr "内容之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:330
+msgid "Before Content"
+msgstr "内容之前"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:46
+#: inc/compatibility/class-astra-beaver-themer.php:324
+msgid "After Header"
+msgstr "页眉之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:323
+msgid "Before Header"
+msgstr "页眉之前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:317
+msgid "After Page"
+msgstr "页面之后"
+
+#: inc/compatibility/class-astra-beaver-themer.php:316
+msgid "Before Page"
+msgstr "页面之前"
+
+#. translators: 1: date, 2: time
+#: inc/blog/single-blog.php:190
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: inc/blog/single-blog.php:136
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: inc/blog/single-blog.php:136
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/blog/blog-config.php:276 inc/blog/blog-config.php:305
+msgid ", "
+msgstr ", "
+
+#: inc/blog/blog-config.php:201 inc/blog/blog-config.php:457
+msgid "Read More &raquo;"
+msgstr "查看全文 &raquo;"
+
+#: inc/admin-functions.php:78
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:57
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:92
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:130
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:162
+msgid "Footer Menu"
+msgstr "页脚菜单"
+
+#: inc/admin-functions.php:30
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:144
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:123
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:47
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: comments.php:55 comments.php:78
+msgid "Comments Navigation"
+msgstr "评论导航"
+
+#. translators: 1: number of comments
+#: comments.php:42
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s人评论了&ldquo;%2$s&rdquo;"
+
+#. Author URI of the theme
+msgid "https://wpastra.com/about/"
+msgstr "https://wpastra.com/about/"
+
+#. Theme URI of the theme
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Author of the theme
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
